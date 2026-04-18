@@ -5,14 +5,14 @@
 
 window.initLesson({
     isHome: true,
-    courseTitle: "English Block Assembling",
+    courseTitle: "Block Building - English for Everyday Life",
     description: "Select a Block to begin building your skills.",
     
     // THE COURSE MAP
     // 5 Blocks, 7 Topics per Block (Total 35 Lessons)
     blocks: {
         1: {
-            title: "Starters - Daily Life",
+            title: "A1 Beginners - Breakthrough Basics",
             description: "Essential vocabulary and grammar for everyday interactions.",
             topics: [
                 { id: "lesson-01", title: "1 - Introductions & Greetings" },
@@ -25,7 +25,7 @@ window.initLesson({
             ]
         },
         2: {
-            title: "First Steps - City & Travel",
+            title: "A2 Elementary - Waystage Skills",
             description: "Navigating the city, traveling, and taking care of yourself.",
             topics: [
                 { id: "lesson-08", title: "8 - Hobbies & Interests" },
@@ -38,7 +38,7 @@ window.initLesson({
             ]
         },
         3: {
-            title: "Communicating - Everyday Situations",
+            title: "B1 Intermediate - Threshold Proficiency",
             description: "Talking about the past, telling stories, and expressing feelings.",
             topics: [
                 { id: "lesson-15", title: "15 - Leisure Activities" },
@@ -51,7 +51,7 @@ window.initLesson({
             ]
         },
         4: {
-            title: "Environment & Society",
+            title: "B2 Upper-Intermediate - Vantage Mastery",
             description: "Complex topics regarding modern life and technology.",
             topics: [
                 { id: "lesson-22", title: "22 - Nature & Environment" },
@@ -64,7 +64,7 @@ window.initLesson({
             ]
         },
         5: {
-            title: "Handling Complexity - Abstract & Business",
+            title: "C1 Advanced - Effective Operational Proficiency",
             description: "Abstract concepts, business English, and debate.",
             topics: [
                 { id: "lesson-29", title: "29 - Social Media & Online Communication" },
