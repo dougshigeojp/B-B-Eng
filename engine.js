@@ -107,7 +107,7 @@ function renderHomeMode() {
 
     container.innerHTML = `
         <div style="text-align:center; padding: 40px 0;">
-            <h1 style="color:var(--primary-blue); margin-bottom:10px;">ENGLISH BLOCK ASSEMBLING</h1>
+            <h1 style="color:var(--primary-blue); margin-bottom:10px;">BLOCK BUILDING ENGLISH</h1>
             <p style="color:#666;">Select a Block to begin building your skills.</p>
         </div>
         ${tabsHtml}
